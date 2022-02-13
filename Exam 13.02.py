@@ -17,24 +17,6 @@ print(palindrome(word))
 
 # Task 3
 
-class Tomato:
-    default_states = 0
-    default_states_1 = 1
-    default_states_2 = 2
-
-    def __init__(self, index, state):
-        self._index = index
-        self._state = 0
-
-    def grow(self):
-        pass
-
-    def is_rise(self):
-        pass
-
-class TomatoBush:
-
-    def __init__(self, count):
-        self.count = 10
+# ничего не понял, но очень интересно
 
 
